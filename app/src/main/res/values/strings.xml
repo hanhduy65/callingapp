@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="calling_theme">Calling Theme</string>
+    <string name="calling">Cuộc gọi đến</string>
+</resources>
